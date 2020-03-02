@@ -1,7 +1,7 @@
 # 狗屁不通文章制造器
 今天，我带来了一个新鲜出炉的狗屁不通文章制造器。话不多说，上效果图：
 
-![效果](G:\article_maker\效果图.png)
+![效果](https://raw.githubusercontent.com/lihansen123/article_maker/master/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
 
 乍一看，好像没啥毛病啊？
 
